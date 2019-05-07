@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScoutsDigitalOffline</string>
+    <string name="scouts_digital_offline">Scouts.Digital Offline</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+</resources>
